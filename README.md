@@ -14,6 +14,6 @@ Flappy Bird played with AI using the [NEAT](https://neat-python.readthedocs.io/e
 
 Running Application
 
-![Flappy Bird](flappyBird.jpg)
+![Flappy Bird](FlappyBird.jpg)
 
 Consider giving a start if it helped you ⭐ ✌
